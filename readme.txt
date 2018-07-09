@@ -11,3 +11,4 @@ Creating a new branch is quick and simple.
 Fast-Forward.
 Fast-Forward --no-ff
 Git is a freesoftware.
+Git Stash.
