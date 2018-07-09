@@ -7,3 +7,4 @@ Creating a new branch is quick.
 Already create file in GitHub.
 Using SSH.
 Add public key for SSH.
+Creating a new branch is quick AND simple.
